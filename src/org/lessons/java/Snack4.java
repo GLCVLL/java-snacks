@@ -21,9 +21,9 @@ public class Snack4 {
         }
 
         if (isPalindrome) {
-            System.out.println("La stringa è palindroma.");
+            System.out.println("La parola è palindroma.");
         } else {
-            System.out.println("La stringa non è palindroma.");
+            System.out.println("La parola non è palindroma.");
         }
 	}
 
